@@ -223,6 +223,7 @@ class Controls(ControlsExt):
     # carControl
     cc_send = messaging.new_message('carControl')
     cc_send.valid = CS.canValid
+    CC.currentCurvature = cs.curvature
     cc_send.carControl = CC
     self.pm.send('carControl', cc_send)
 

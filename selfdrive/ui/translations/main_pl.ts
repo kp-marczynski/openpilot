@@ -369,9 +369,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://stable.konik.ai</source>
         <translation>Odblokuj nawigację zakręt po zakęcie i wiele więcej subskrybując
-comma prime. Zarejestruj się teraz: https://connect.comma.ai</translation>
+comma prime. Zarejestruj się teraz: https://stable.konik.ai</translation>
     </message>
     <message>
         <source>No home
@@ -453,8 +453,8 @@ nie zostało ustawione</translation>
         <translation>Sparuj swoje urzadzenie ze swoim kontem comma</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>Wejdź na stronę https://connect.comma.ai na swoim telefonie</translation>
+        <source>Go to https://stable.konik.ai on your phone</source>
+        <translation>Wejdź na stronę https://stable.konik.ai na swoim telefonie</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>

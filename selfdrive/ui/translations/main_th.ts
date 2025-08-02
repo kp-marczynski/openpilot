@@ -1357,8 +1357,8 @@ Warning: You are on a metered connection!</source>
         <translation>จับคู่อุปกรณ์ของคุณกับบัญชี comma ของคุณ</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>ไปที่ https://connect.comma.ai ด้วยโทรศัพท์ของคุณ</translation>
+        <source>Go to https://stable.konik.ai on your phone</source>
+        <translation>ไปที่ https://stable.konik.ai ด้วยโทรศัพท์ของคุณ</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>

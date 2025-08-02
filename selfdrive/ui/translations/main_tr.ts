@@ -1356,8 +1356,8 @@ Warning: You are on a metered connection!</source>
         <translation>comma.ai hesabınız ile cihazı eşleştirin</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>Telefonuzdan https://connect.comma.ai sitesine gidin</translation>
+        <source>Go to https://stable.konik.ai on your phone</source>
+        <translation>Telefonuzdan https://stable.konik.ai sitesine gidin</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>

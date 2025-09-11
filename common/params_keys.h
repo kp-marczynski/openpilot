@@ -128,11 +128,11 @@ inline static std::unordered_map<std::string, ParamKeyAttributes> keys = {
     {"UptimeOffroad", {PERSISTENT, FLOAT, "0.0"}},
     {"UptimeOnroad", {PERSISTENT, FLOAT, "0.0"}},
     {"Version", {PERSISTENT, STRING}},
-	
+
 	// --- infiniteCable params --- //
 	{"DisableScreenTimer", {PERSISTENT, BOOL}},
 	{"DarkMode", {PERSISTENT, BOOL}},
-	{"EnableCurvatureController", {PERSISTENT, BOOL}},
+	{"EnableCurvatureController", {PERSISTENT, BOOL, "1"}},
     {"EnableScreenEvent", {CLEAR_ON_MANAGER_START | CLEAR_ON_ONROAD_TRANSITION, BOOL}},
     {"EnableSmoothSteer", {PERSISTENT, BOOL}},
     {"EnableSpeedLimitControl", {PERSISTENT, BOOL}},
